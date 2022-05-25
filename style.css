@@ -1,0 +1,11 @@
+@charset "utf-8";
+.container-fluid {
+    background-color: #FFFFFF;
+    background-image: -webkit-repeating-linear-gradient(270deg,rgba(167,167,167,1.00) 0%,rgba(71,71,71,1.00) 100%);
+    background-image: -moz-repeating-linear-gradient(270deg,rgba(167,167,167,1.00) 0%,rgba(71,71,71,1.00) 100%);
+    background-image: -o-repeating-linear-gradient(270deg,rgba(167,167,167,1.00) 0%,rgba(71,71,71,1.00) 100%);
+    background-image: repeating-linear-gradient(180deg,rgba(167,167,167,1.00) 0.00%,rgba(71,71,71,1.00) 100%);
+}
+.container .container-fluid .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #565656;
+}
